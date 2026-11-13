@@ -4,7 +4,7 @@ GUI h
 DELAY 1000
 GUI SPACE
 DELAY 250
-STRING https://github.com/Flipper-XFW/Xtreme-Firmware
+STRING https://m.youtube.com/watch?v=Aq5WXmQQooo&pp=ygUJUmljayByb2xs&ra=m
 DELAY 75
 TAB
 DELAY 75
